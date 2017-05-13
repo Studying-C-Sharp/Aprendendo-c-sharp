@@ -11,16 +11,21 @@ namespace MyFirstProgram
         static void Main(string[] args)
         {
             int a, b;
-            a = 10;
-            b = 20;
+            a = 0;
+            b = 0;
 
-            String s;
+            String aux;
 
-            Console.Write("Hello world "+(a+b));
+            Console.Write("Entre com valor A ");
+            aux = Console.ReadLine();
+            a = Convert.ToInt32(aux) ;
 
-            s = Console.ReadLine();
+            Console.Write("Entre com valor B ");
+            aux = Console.ReadLine();
+            b = Convert.ToInt32(aux);
 
-            Console.WriteLine(s);
+            Console.WriteLine("a soma de A e B é: " + (a+b));
+            Console.WriteLine("a subtração de A e B é: " + (a-b));
 
 
             Console.ReadKey();
