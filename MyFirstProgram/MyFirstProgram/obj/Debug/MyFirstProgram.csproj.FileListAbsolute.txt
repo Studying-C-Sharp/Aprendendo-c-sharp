@@ -1,0 +1,12 @@
+c:\users\ynhic\onedrive\documentos\visual studio 2017\Projects\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+c:\users\ynhic\onedrive\documentos\visual studio 2017\Projects\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+c:\users\ynhic\onedrive\documentos\visual studio 2017\Projects\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+c:\users\ynhic\onedrive\documentos\visual studio 2017\Projects\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csprojResolveAssemblyReference.cache
+c:\users\ynhic\onedrive\documentos\visual studio 2017\Projects\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+c:\users\ynhic\onedrive\documentos\visual studio 2017\Projects\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb
+C:\Users\ynhic\OneDrive\Documentos\Visual Studio 2017\Projects\Programas-c#\Aprendendo-c-sharp\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+C:\Users\ynhic\OneDrive\Documentos\Visual Studio 2017\Projects\Programas-c#\Aprendendo-c-sharp\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+C:\Users\ynhic\OneDrive\Documentos\Visual Studio 2017\Projects\Programas-c#\Aprendendo-c-sharp\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+C:\Users\ynhic\OneDrive\Documentos\Visual Studio 2017\Projects\Programas-c#\Aprendendo-c-sharp\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\ynhic\OneDrive\Documentos\Visual Studio 2017\Projects\Programas-c#\Aprendendo-c-sharp\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Users\ynhic\OneDrive\Documentos\Visual Studio 2017\Projects\Programas-c#\Aprendendo-c-sharp\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb
