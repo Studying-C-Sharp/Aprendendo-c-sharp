@@ -79,3 +79,27 @@ private int[ ][,] ArrDeArr = new int[2][,] {new int[2,3], new int[4,5]};
 Inicializando o array na declaração:
 private int[ ][,] ArrDeArr = new int[2][,] {new int[2,2] {{1,2},{3,4}}, new int[2,2]{{5,6},{7,8}}};
 
+Em String pode usar == para comparar as duas String
+
+Método Funcionalidade
+Insert( ) Insere uma substring dentro de outra a partir da posição especificada
+ToUpper( ) Retorna uma nova string a partir da corrente em maiúsculas
+ToLower( ) Retorna uma nova string a partir da corrente em minúsculas
+Remove( ) Remove um determinado número de caracteres a partir de uma posição
+especificada
+Replace( ) Substitui todas as ocorrências de uma determinada substring na string
+corrente pela especificada no parâmetro
+
+//exemplo de for infinito
+StringBuilder strB= new StringBuilder(" ");
+Console.WriteLine( "Digite múltiplas linhas separadas por enter. Para sair digite
+\"sair\" ");
+for (;;)
+{
+string linha = Console.ReadLine( );
+if ((linha.ToUpper( ) == "SAIR" ))
+break;
+else
+strB.Append(linha);
+}
+
