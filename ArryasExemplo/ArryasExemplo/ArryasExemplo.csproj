@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9F8AC907-F9F3-4879-BA06-B50BA6C5CA93}</ProjectGuid>
+    <ProjectGuid>{BF9AAC73-E28D-4B8E-ABDD-0581AC939C0D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MyFirstProgram</RootNamespace>
-    <AssemblyName>MyFirstProgram</AssemblyName>
+    <RootNamespace>ArryasExemplo</RootNamespace>
+    <AssemblyName>ArryasExemplo</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArraysDimencionais.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

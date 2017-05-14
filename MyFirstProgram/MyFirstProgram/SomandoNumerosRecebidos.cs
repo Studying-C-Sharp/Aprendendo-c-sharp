@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyFirstProgram
+namespace SomandoNumerosRecebidos
 {
-    class Program
+    class SomandoNumerosRecebidos
     {
         static void Main(string[] args)
         {
